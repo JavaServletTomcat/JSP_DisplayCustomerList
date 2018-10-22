@@ -49,7 +49,7 @@
                     <td>Ngô Lan</td>
                     <td>10/10/1990</td>
                     <td>Quảng Ninh</td>
-                    <td></td>
+                    <td><img src="images/4.jpg" height="80px" width="80px"></td>
                 </tr>
                 </tbody>
             </table>
